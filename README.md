@@ -2,7 +2,7 @@
 
 <br />
 
-This project started as a simple and flat idea on <a href="'https://codepen.io/amateratsoo/pen/mdXQwaE'">this codepen<a />. It was very useful for me to implement and see in practice my html, css and js skills (spoiler: i'm a bad programmer).
+This project started as a simple and flat idea on <a href="https://codepen.io/amateratsoo/pen/mdXQwaE">this codepen</a>. It was very useful for me to implement and see in practice my html, css and js skills (spoiler: i'm a bad programmer).
 
 <br />
 
