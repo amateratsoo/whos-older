@@ -109,7 +109,7 @@ section {
 
 #main-content header nav {
 
-  background-image: url('../../assets/menu.png');
+  background-image: url('assets/menu.png');
   background-repeat: no-repeat;
   background-size: cover;
   width:  1.8rem;
