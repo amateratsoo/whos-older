@@ -6,4 +6,4 @@ This project started as a simple and flat idea on <a href="https://codepen.io/am
 
 <br />
 
-This took in total 5 days to be completed and even tho it was a bit tiring to do (i was sleeping at 3 am 😪), overall it was very instructive and fun todo.
+This took in total 5 days to be completed and even tho it was a bit tiring to do (i was sleeping at 3 am 😪), overall it was very instructive and fun to do.
